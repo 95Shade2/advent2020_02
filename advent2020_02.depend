@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1606938102 source:e:\shade\gaming\advent of code\advent2020_02\main.cpp
+	<iostream>
+	<vector>
+	<fstream>
+
